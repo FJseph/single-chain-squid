@@ -7,3 +7,4 @@ sqd typegen
 ```
 
 This `typegen` command is defined in `commands.json`.
+sqd typegen
